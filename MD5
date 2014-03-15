@@ -1,0 +1,12 @@
+7721cde7c1e9611477162656d5a7b77e *DESCRIPTION
+787725b03a1c09bf8c3abe34212c2204 *NAMESPACE
+dd5506205e9d5ce286414eaa1d1add7a *R/plot2.R
+328ad987af2c966dfd4ea55dcf855048 *R/plot2f.R
+c984ccb80516316569812a4d19ceb56d *R/plot2groups-package.R
+8374ec76cb9f010977f9d8b41759da03 *data/drd3.rda
+761972616d00dd2e19b7ccfee7d52979 *data/drd3.txt.gz
+c3e7ba3c33fd7ed3a574eb5adcb247c1 *inst/CITATION
+b092ff5c42cbf3168a4f612dfb25e37e *man/drd3.rd
+177e11755110f5147a5afccb641940d9 *man/plot2.Rd
+24b858c9394359ecdedc67abaf1523ec *man/plot2f.Rd
+5e7435bfb43c9ee21f537d3e5488d4e9 *man/plot2groups-package.Rd

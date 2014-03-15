@@ -1,0 +1,3 @@
+export(plot2)
+export(plot2f)
+import(ggplot2)

@@ -1,0 +1,13 @@
+bibentry("Manual",
+		title="plot2groups: Plot scatter points for two groups of values",
+		author="Fuquan Zhang",
+		year="2014",
+		note="(Version 0.10)",
+		
+
+		textVersion =
+		paste("Zhang, F. (2014). ",
+				"plot2groups: Plot scatter points for two groups of values (Version 0.10). ",
+				sep=""),
+
+		mheader = "To cite plot2groups in publications use:")
